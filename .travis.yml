@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: nAEYbfoeWJSD8PXbIfNEQL9wqgczm8y4aK8m9jXGcjB9zB3TGSRQwPc28yVSmB/wQJxsqN84/GelhNyMsitmr31DAnTiOnKUw0iqocg/MDXnG0KPUFMVUVQ+8/nxyRctu+9MIepCs3SVnz68wkfEyb8sk687dGykDjmfwMRKtdQMl9f0HNVEZCvum23Mk7F42TZhHXUjoZ93fsOdjfmqb1BWysVzQROuvARRbZx43KX5Rg9/L57lxRud4P4G4fbmJuJTWa+1OlKfk8mDYvWxk+S7PwM/yamHYjK/XmoRgsmrOsGmlzbYc0zTZf4e0XKevHr/2yte99VGQc/o90FvLAFE1xxKMaOUmhdqsowRqYBkr/e5ZUAkq5/KMxdEQAcpBTtMceRdRSAeoM6JgKAs21gC7cG5RLHEwqZ3gvCZW2QITO/iAhBMBLHkM6lB7ZKWxbbaIlMQ0SB566L7h7AvsnaZ9pxg9bGQJSryyuDYBgwVWKC9lfqVPisyWWl5Vjt2ta8I4/DV8wIAJ61JwKtH/wWrfdUPTcE9Rur/qGSYFtsUbIvYcF2/btUAoYa20W4N0A+nzrIp0VdXXDzgtco4/dLVZ6AM+GaGNLYcdeYybqpsrhgePzp+tzBiugDtKnYxp9qF5uF8rpth4cOo7O6PkAjQLJ77UkdEFZSDtrfUvoY=
-  app: https://powerful-forest-62780.herokuapp.com/ 
+  app: powerful-forest-62780 
   on:
     repo: frosemond/node-shopping-list-integration-tests
